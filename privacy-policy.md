@@ -3,7 +3,7 @@
 Nós, da Merith Team, respeitamos sua privacidade e estamos comprometidos em proteger suas informações pessoais.
 
 ## Dados que Coletamos
-Coletamos informações de identificação pessoal que você nos fornece voluntariamente, como nomes de usuário e IDs de Discord, quando você usa a Merith.
+Coletamos informações de identificação pessoal que você nos fornece voluntariamente, como nomes de usuário e IDs de Discord, quando você usa a Merith. Não permitimos que os usuários optem por não ter seus dados do conteúdo das mensagens rastreados.
 
 ## Uso dos Dados
 Usamos os dados coletados para operar e melhorar nosso Serviço, incluindo:
@@ -24,6 +24,6 @@ Não compartilhamos suas informações pessoais com terceiros, exceto conforme n
 Podemos atualizar nossa Política de Privacidade periodicamente. Notificaremos você sobre quaisquer alterações publicando a nova Política de Privacidade nesta página. Recomendamos que você reveja esta Política de Privacidade periodicamente para quaisquer alterações.
 
 ## Contato
-Se você tiver alguma dúvida sobre esta Política de Privacidade, por favor, entre em contato conosco em merithbot@gmail.com
+Se você tiver alguma dúvida sobre esta Política de Privacidade, por favor, entre em contato conosco em [merithbot@gmail.com](mailto:merithbot@gmail.com).
 
 Última atualização: 10/07/2024
